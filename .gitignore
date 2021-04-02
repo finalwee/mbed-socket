@@ -1,0 +1,8 @@
+BUILD
+.mbed
+mbed-os
+wifi-ism43362
+wifi-x-nucleo-idw01m1
+BSP_B-L475E-IOT01
+.hg
+.hgignore
